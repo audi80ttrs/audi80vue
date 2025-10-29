@@ -17,10 +17,10 @@ defineProps<{
 
 <style scoped>
 .task-card {
-  border: 1px solid #ccc;
-  padding: 12px;
-  margin-bottom: 8px;
+  border: 1px solid #ffffff;
+  padding: 20px;
+  margin-bottom: 18px;
   border-radius: 6px;
-  background-color: #c01c1c;
+  background-color: #000000;
 }
 </style>
